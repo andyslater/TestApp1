@@ -6,7 +6,7 @@
     <ProjectGuid>e664e69e-4e1a-454e-98ba-d624317fc850</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>BuncingDot.py</StartupFile>
+    <StartupFile>BouncingDot.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,7 +23,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="BuncingDot.py" />
+    <Compile Include="BouncingDot.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
